@@ -1,2 +1,3 @@
-# Porfolio---Front-end
-1
+Estados de los archivos
+U : Untracked Files
+M : MOodified

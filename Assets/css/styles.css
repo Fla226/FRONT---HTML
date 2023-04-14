@@ -1,0 +1,39 @@
+* {
+    width: 90%;
+    margin: 2% 2% 10% 2%;
+    padding:0.1%;
+
+}
+
+
+.titulo {
+
+    color:rgb(194, 58, 34)
+    /*#000 hex color - color hexadecimal*/
+}
+
+.resaltar {
+
+
+    color:crimson
+}
+
+.subtitulo {
+
+
+    color:firebrick
+}
+
+.fondo {
+
+   background:rgb(230, 178, 152);
+}
+
+.fondoconimagen {
+    background-image:url(../img/pexels-photo-942872.jpeg);
+}
+
+body {
+
+    background-color: rgb(249, 227, 214);
+}
